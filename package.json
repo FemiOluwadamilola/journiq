@@ -1,0 +1,32 @@
+{
+  "name": "journiq-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "Oluwadamilola Emmanuel Femi",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "bcryptjs": "^3.0.2",
+    "bull": "^4.16.5",
+    "cookie-session": "^2.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "exif-parser": "^0.1.12",
+    "express": "^5.1.0",
+    "express-ejs-layouts": "^2.5.1",
+    "googleapis": "^149.0.0",
+    "json-web-token": "^3.2.0",
+    "mongoose": "^8.15.1",
+    "multer": "^2.0.0",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
