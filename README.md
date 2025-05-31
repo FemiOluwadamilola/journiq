@@ -8,7 +8,7 @@
 
 ## 📘 Overview
 
-**Journiq** is a web-based application that connects with your Google Drive (and potentially iCloud), fetches and analyzes your stored photos, extracts geolocation (EXIF GPS) data, and visualizes your memories on an interactive map. It also allows you to generate animations using AI (future module). Every photo tells a Journey.
+**Journiq** is a web-based application that connects with your Google Drive (and potentially iCloud), fetches and analyzes your stored photos, extracts geolocation (EXIF GPS) data, and visualizes your memories on an interactive map. It also allows you to generate animations using AI (future module) Every photo tells a Journey.
 ---
 
 
